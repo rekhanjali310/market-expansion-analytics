@@ -29,12 +29,12 @@ and inventory metrics across 5 products, 4 regions, and 5 channels.
 ## Key Insights
 | Metric | Value | Target | Status |
 |---|---|---|---|
-| Target Achievement | 90% | 100% | ⚠️ Below |
-| East Region Sales | 5,762 | 5,569 | ✅ Above |
-| Receivable Days | 44 days | 31 days | ⚠️ High |
-| Inventory Days | 55 days | 31 days | ⚠️ High |
-| Feb Sales Growth | +49% | — | ✅ Strong |
-| Gross Profit Margin | 32% | — | ✅ Healthy |
+| Target Achievement | 90% | 100% | Below |
+| East Region Sales | 5,762 | 5,569 | Above |
+| Receivable Days | 44 days | 31 days | High |
+| Inventory Days | 55 days | 31 days | High |
+| Feb Sales Growth | +49% | — | Strong |
+| Gross Profit Margin | 32% | — | Healthy |
 
 ## Technologies
 - Python, Pandas, NumPy
